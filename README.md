@@ -5,3 +5,4 @@
 - [**arXiv 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments. [[pdf]](https://arxiv.org/pdf/2405.07960) [[code]](https://github.com/samuelschmidgall/AgentClinic)
 - [**arXiv 2024**] DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge. [[pdf]](https://arxiv.org/pdf/2405.12541)
 - [**bioRxiv 2024**] An AI Agent for Fully Automated Multi-omic Analyses [[pdf]](https://www.biorxiv.org/content/10.1101/2023.09.08.556814v3.full.pdf+html) [[code]](https://github.com/JoshuaChou2018/AutoBA/)
+- [**arXiv 2024**] BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments. [[pdf]](https://arxiv.org/pdf/2405.17631) [[code]](https://github.com/snap-stanford/BioDiscoveryAgent)
