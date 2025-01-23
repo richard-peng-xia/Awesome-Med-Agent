@@ -7,7 +7,7 @@
 - [**bioRxiv 2024**] An AI Agent for Fully Automated Multi-omic Analyses [[pdf]](https://www.biorxiv.org/content/10.1101/2023.09.08.556814v3.full.pdf+html) [[code]](https://github.com/JoshuaChou2018/AutoBA/)
 - [**arXiv 2024**] BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments. [[pdf]](https://arxiv.org/pdf/2405.17631) [[code]](https://github.com/snap-stanford/BioDiscoveryAgent)
 - [**arXiv 2024**] ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World. [[pdf]](https://arxiv.org/pdf/2406.13890) [[code]](https://github.com/WeixiangYAN/ClinicalLab)
-- [**arXiv 2024**] AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator. [[pdf]](https://arxiv.org/pdf/2402.09742) [[code]](https://github.com/LibertFan/AI_Hospital)
+- [**COLING 2025**] AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator. [[pdf]](https://arxiv.org/pdf/2402.09742) [[code]](https://github.com/LibertFan/AI_Hospital)
 - [**EMNLP 2024**] EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records. [[pdf]](https://arxiv.org/pdf/2401.07128) [[code]](https://github.com/wshi83/EhrAgent)
 - [**arXiv 2024**] AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning. [[pdf]](https://arxiv.org/pdf/2402.13225)
 - [**arXiv 2024**] GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases. [[pdf]](https://arxiv.org/pdf/2405.16205)
